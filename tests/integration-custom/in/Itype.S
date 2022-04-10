@@ -19,3 +19,4 @@ srli a5, a1, 10
 srai a5, a1, 10
 ori a5, a1, 10
 andi a5, a1, 10
+mul a5, a1, a1
